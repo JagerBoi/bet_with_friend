@@ -1,15 +1,23 @@
 import React from 'react';
 import './App.css';
-import GroupList from './components/group-list';
+import Header from './components/header';
+import Main from './components/main';
+import Sidebar from './components/sidebar';
+import { ThemeProvider } from '@mui/material';
+import theme from './theme';
 
 function App() {
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <GroupList/>
-      </header>
-    </div>
+    <ThemeProvider theme = {theme}>
+      <div className="App">
+          <Header />
+          <div className="general-content">
+            <Sidebar/>
+            <Main/>
+          </div>
+      </div>
+    </ThemeProvider>
   );
 }
 
