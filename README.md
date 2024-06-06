@@ -18,6 +18,7 @@ Bet with Friend is a platform that enables users to create, manage, and particip
 ## Technologies Used
 
 - **Frontend:**
+  - JavaScript  
   - React.js
   - HTML/CSS
 
