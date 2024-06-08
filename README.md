@@ -5,7 +5,7 @@ Welcome to the Bet with Friend repository! This project allows friends to create
 
 ## Introduction
 
-Bet with Friend is a platform that enables users to create, manage, and participate in bets with their friends. The project is designed to be user-friendly and engaging, making it easy for friends to challenge each other and keep track of their bets.
+Bet with Friend is a platform that enables users to create, manage, and participate in bets with friends. The project is designed to be user-friendly and engaging, making it easy for friends to challenge each other and keep track of their bets.
 
 ## Features
 
